@@ -1,0 +1,10 @@
+body{background-color: darkgrey;
+    border-radius: 8px;
+    border:3px solid tomato; 
+    text-align: center;
+  
+}
+h1{
+    color:darkred;
+    font-size: 35px;
+}
